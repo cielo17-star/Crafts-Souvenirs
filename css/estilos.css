@@ -266,6 +266,7 @@ textarea{
 
 #boton:hover{
   cursor: pointer;
+
 }
 
 @media(max-width:590px){
